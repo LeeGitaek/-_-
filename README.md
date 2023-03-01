@@ -1,2 +1,2 @@
 # -_-
-2020-2 기계학습 기록입니다. 
+2020-2 Machine Learning Study History 
